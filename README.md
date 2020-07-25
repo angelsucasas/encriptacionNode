@@ -1,9 +1,9 @@
 # encriptacionNode ![npm](https://img.shields.io/badge/node-v.12.18.3-green)
-  diferentes metodos de encriptacion y decriptacion den node js
+  diferentes metodos de encriptacion y decriptacion en node js
 
 ## como probar? 
 
-clona el repositorio, y en la carpeta "encriptacionNode abre la terminal y escribe:
+clona el repositorio, y en la carpeta "encriptacionNode" abre la terminal y escribe:
 
 ```bash
 $ npm install 
@@ -14,7 +14,7 @@ luego, ejecuta :
 $ node prueba-de-encriptacion.js 
 ```
 
-y deberias ver algo asi en la terminal:
+y deberias ver algo así en la terminal:
 
 ![image](https://user-images.githubusercontent.com/44983658/88445942-0fdbd180-cdf4-11ea-9060-158063795b57.png)
 
